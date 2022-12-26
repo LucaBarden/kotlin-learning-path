@@ -1,5 +1,6 @@
 # Cinema Room Manager
 
+Simple logic system that handles ticket purchases of a simulated cinema room
 
 Reference:
 
