@@ -1,0 +1,26 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: ==
+- text: .compare()
+- text: ===
+- text: .equals()
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/11238#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 26 Dec 2022 00:06:29 UTC"
+record: -1
+selected_options:
+- 2
+local_check: false
