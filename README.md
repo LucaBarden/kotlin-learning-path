@@ -4,4 +4,4 @@ This Repository holds all Projects i developed while completing the Kotlin Basic
 
 References:
 
-(Kotlin Basics)[https://hyperskill.org/tracks/18]
+[Kotlin Basics](https://hyperskill.org/tracks/18)
