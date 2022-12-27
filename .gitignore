@@ -1,3 +1,4 @@
 **/.gradle
 **/task/build/
-
+**/.idea/
+**/Topics/
